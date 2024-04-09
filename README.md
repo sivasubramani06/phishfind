@@ -34,8 +34,8 @@ If you have Docker installed on your computer, you can easily run the applicatio
 1. Clone the repository: 
 
 ```shell
-git clone https://github.com/abhizaik/SafeSurf.git
-cd SafeSurf
+git clone https://github.com/sivasubramani06/phishfind.git
+cd phishfind
 ```
 
 2. Start the container
@@ -51,8 +51,8 @@ Alternatively, you can manually set up the project by following these steps. Not
 1. Clone the repository: 
 
 ```shell
-git clone https://github.com/abhizaik/SafeSurf.git
-cd SafeSurf
+git clone https://github.com/sivasubramani06/phishfind.git
+cd phishfind
 ```
 
 2. Install the dependencies: 
@@ -73,7 +73,7 @@ python app.py
 ## Learn and Contribute to the Project
   
   <details>
-  <summary> <b> Learn How SafeSurf Works </b> </summary>
+  <summary> <b> Learn How phishfind Works </b> </summary>
 
   ### Project Functionality Overview
 
@@ -81,17 +81,17 @@ This section explains the functionality and inner workings of the project, detai
 
 ### API Endpoints 
 - `/`: Homepage of the application where users can input a URL to assess its safety.
-- `/preview`: Endpoint to view a preview of the website within SafeSurf.
+- `/preview`: Endpoint to view a preview of the website within phishfind.
 - `/source-code`: Endpoint to view the source code of a website.
 
-[Detailed code documentaion of SafeSurf](README-HOW-SAFESURF-WORKS.md)
+[Detailed code documentaion of phishfind](README-HOW-phishfind-WORKS.md)
 
 
 
 </details>
 
 <details>
-  <summary> <b> How to Contribute to SafeSurf </b> </summary>
+  <summary> <b> How to Contribute to phishfind </b> </summary>
 
 ### Contributing Guidelines
 Contributions are always welcome. If you find this project useful or interesting, please consider starring it and putting it on your watch list. If you want to contribute to the project, here's how you can do it:
