@@ -1,14 +1,14 @@
-[Go back to SafeSurf Documentation](README.md#learn-and-contribute-to-the-project)
+[Go back to phishfind Documentation](README.md#learn-and-contribute-to-the-project)
 
 # Code Documentaion
 ## Documentation for app.py 
 
 ### Introduction
-The `app.py` file serves as the entry point of the application, defining three API endpoints for interacting with the SafeSurf web application.
+The `app.py` file serves as the entry point of the application, defining three API endpoints for interacting with the phishfind web application.
 
 ### API Endpoints
 - `/`: Homepage of the application where users can input a URL to assess its safety.
-- `/preview`: Endpoint to view a preview of the website within SafeSurf.
+- `/preview`: Endpoint to view a preview of the website within phishfind.
 - `/source-code`: Endpoint to view the source code of a website.
 
 ### Dependencies
