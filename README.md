@@ -1,20 +1,21 @@
 
-<img src="static/safesurf-normal.png"  width="350" height="88">
+<img src="![image](https://github.com/sivasubramani06/phishfind/assets/162475908/a9049f07-ce44-40c6-9d70-592478597b37)
+"  width="350" height="88">
 
 
-# SafeSurf
+# phishfind
 
-A phishing domain detection tool that also allows you to safely view the website without actually visiting it. Built using Python. With SafeSurf, you can quickly identify suspicious websites and protect yourself from phishing attacks.
+A phishing domain detection tool that also allows you to safely view the website without actually visiting it. Built using Python. With phishfind, you can quickly identify suspicious websites and protect yourself from phishing attacks.
 
 
 ## Features
 
-These are the features provided by SafeSurf to its users.
+These are the features provided by phishfind to its users.
 - The website is easy to use, with a simple interface that anyone can navigate.
 - Users can see the preview of the website without actually visiting it.
-- SafeSurf gives a trust score to the URL, which will provide the user an understanding of the trustability and authenticity of the domain.
+- phishfind gives a trust score to the URL, which will provide the user an understanding of the trustability and authenticity of the domain.
 - The URL is checked with a phish database (PhishTank) to see whether it is a reported phishing link.
-- SafeSurf provides crucial details (WHOIS, SSL and general) regarding the domain, which will help the user to get a basic understanding of the URL.
+- phishfind provides crucial details (WHOIS, SSL and general) regarding the domain, which will help the user to get a basic understanding of the URL.
 
 ## Demo
 
