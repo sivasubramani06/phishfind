@@ -1,6 +1,5 @@
 
-<img src="![PHISHfind photo](https://github.com/sivasubramani06/phishfind/assets/162475908/3655cf6c-6f84-4d32-8a86-c223544ecdd8)
-"width="350" height="58">
+<img src= "![phishfind photo](https://github.com/sivasubramani06/phishfind/assets/162475908/6026d625-f3ed-49f3-91b9-88ba714641ff)" width="350" height="58">
 
 
 # phishfind
