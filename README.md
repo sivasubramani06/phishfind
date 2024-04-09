@@ -18,7 +18,7 @@ These are the features provided by phishfind to its users.
 
 ## Demo
 
-https://safesurf.vercel.app
+https://phishfind.vercel.app
 
 <img src="static/safesurf-screenshot.png"  width="350" height="175">
 <br>
