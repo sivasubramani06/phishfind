@@ -20,8 +20,7 @@ These are the features provided by phishfind to its users.
 
 https://phishfind.vercel.app
 
-<img src="![Screenshot (23)](https://github.com/sivasubramani06/phishfind/assets/162475908/74d4b746-a3c0-47f1-a9dd-da44cfd7f054)
-"  width="350" height="175">
+<img src="![Screenshot (23)](https://github.com/sivasubramani06/phishfind/assets/162475908/74d4b746-a3c0-47f1-a9dd-da44cfd7f054)"width="350" height="175">
 <br>
 
 ## Local Setup
