@@ -20,7 +20,8 @@ These are the features provided by phishfind to its users.
 
 https://phishfind.vercel.app
 
-<img src="![Screenshot (23)](https://github.com/sivasubramani06/phishfind/assets/162475908/74d4b746-a3c0-47f1-a9dd-da44cfd7f054)"width="350" height="175">
+<img src="![Screenshot (27)](https://github.com/sivasubramani06/phishfind/assets/162475908/444df9aa-eea9-4b14-8bca-e44491231922)
+"width="350" height="175">
 <br>
 
 ## Local Setup
@@ -35,7 +36,7 @@ If you have Docker installed on your computer, you can easily run the applicatio
 
 ```shell
 git clone https://github.com/sivasubramani06/phishfind.git
-cd phishfind
+cd PhishFind
 ```
 
 2. Start the container
@@ -52,7 +53,7 @@ Alternatively, you can manually set up the project by following these steps. Not
 
 ```shell
 git clone https://github.com/sivasubramani06/phishfind.git
-cd phishfind
+cd PhishFind
 ```
 
 2. Install the dependencies: 
