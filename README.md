@@ -1,8 +1,8 @@
 
-<img src="![phishfind photo](https://github.com/sivasubramani06/phishfind/assets/162475908/6026d625-f3ed-49f3-91b9-88ba714641ff) "width="350" height="88">
+<img src="![phishfind photo](https://github.com/sivasubramani06/phishfind/assets/162475908/6026d625-f3ed-49f3-91b9-88ba714641ff)"width="350" height="88">
 
 
-# phishfind
+# PhishFind
 
 A phishing domain detection tool that also allows you to safely view the website without actually visiting it. Built using Python. With phishfind, you can quickly identify suspicious websites and protect yourself from phishing attacks.
 
